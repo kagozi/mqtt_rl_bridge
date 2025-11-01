@@ -255,11 +255,11 @@ gymnasium
 
 ```bibtex
 @software{mqtt-rl-bridge-2025,
-  author = {Your Name},
+  author = {Alex Kagozi},
   title = {mqtt-rl-bridge: Event-Driven MQTT Bridge for Real-World RL},
   year = {2025},
   publisher = {GitHub},
-  url = {https://github.com/yourusername/mqtt-rl-bridge}
+  url = {https://github.com/kagozi/mqtt_rl_bridge}
 }
 ```
 
