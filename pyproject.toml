@@ -3,7 +3,7 @@ name = "mqtt-rl-bridge"
 version = "0.1.0"
 description = "Event-driven MQTT bridge for real-world reinforcement learning"
 readme = "README.md"
-authors = [{name = "Your Name", email = "you@example.com"}]
+authors = [{name = "Alex Kagozi", email = "alexkagozi@gmail.com"}]
 license = {text = "MIT"}
 requires-python = ">=3.9"
 keywords = ["reinforcement-learning", "mqtt", "iot", "robotics", "real-world-rl"]
@@ -25,9 +25,9 @@ gym = ["gymnasium>=0.29"]
 dev = ["pytest", "black", "flake8", "stable-baselines3"]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/mqtt-rl-bridge"
-Repository = "https://github.com/yourusername/mqtt-rl-bridge"
-Issues = "https://github.com/yourusername/mqtt-rl-bridge/issues"
+Homepage = "https://github.com/kagozi/mqtt_rl_bridge"
+Repository = "https://github.com/kagozi/mqtt_rl_bridge"
+Issues = "https://github.com/kagozi/mqtt_rl_bridge/issues"
 
 [build-system]
 requires = ["setuptools>=61", "wheel"]
