@@ -3,7 +3,7 @@
 [![PyPI](https://img.shields.io/pypi/v/mqtt-rl-bridge?color=blue)](https://pypi.org/project/mqtt-rl-bridge/)
 [![Python](https://img.shields.io/pypi/pyversions/mqtt-rl-bridge)](https://pypi.org/project/mqtt-rl-bridge/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-[![Tests](https://github.com/yourusername/mqtt-rl-bridge/actions/workflows/ci.yml/badge.svg)](https://github.com/yourusername/mqtt-rl-bridge/actions)
+[![Tests](https://github.com/kagozi/mqtt-rl-bridge/actions/workflows/ci.yml/badge.svg)](https://github.com/kagozi/mqtt-rl-bridge/actions)
 
 **A lightweight, framework-agnostic package that connects any MQTT-enabled sensor or robot to a reinforcement learning (RL) agent — in real time.**
 
